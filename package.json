@@ -97,7 +97,7 @@
     "react-sortable-tree": "2.8.0",
     "react-sortable-tree-theme-file-explorer": "2.0.0",
     "react-spring": "^9.2.3",
-    "react-virtualized": "9.22.5",
+    "react-virtualized": "9.22.6",
     "react-vis": "1.12.1",
     "redux": "4.2.1",
     "redux-first-history": "5.2.0",
